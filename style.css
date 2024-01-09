@@ -1,0 +1,142 @@
+.header{
+    text-align: center;
+    color: #FFF;
+    background-image: url(B9A1-New-Year-New-Mission-main/resources/Banner.png);   
+    background-repeat: no-repeat;
+}
+.off{
+    text-align: center;
+}
+.titleA{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 0 px;
+}
+.titleB{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: top 48px;
+margin-bottom: 0px;
+}
+.titleC{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 16px;
+}
+.new-year{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+margin: 106px 400px 400px 1170px;
+}
+.pic{
+    width: 100%;
+}
+.secondimage{
+    width: 100%;
+}
+.Place{
+    color: #F00;
+}
+.G{
+    margin: 100px 1400px 0px;
+   width: 1320px;
+height: 482px;
+flex-shrink: 0;
+
+color: rgba(255, 0, 0, 1), rgba(255, 0, 0, 0);
+}
+.btn{
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+color: white;
+border: none;
+}
+.red{
+    color: red;
+    margin: 0px 1260px 0px 140px;
+}
+.oposity{
+    opacity: 0.7;
+}
+.awesome{
+    margin: 0px 1260px 0px 140px; 
+}
+.oposity{
+    margin: 0px 1260px 0px 140px;
+}
+.maindiv{
+    display: flex;
+   
+}
+.maindiv2{
+    display: flex;
+}
+.letter{
+    margin: 800px 185px 85px;
+    width: 1320px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+text-align: center;
+background-position: center;
+}
+.textaria{
+    width: 648px;
+height: 72px;
+
+border-radius: 50px;
+background: #FFF;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+}
+.master{
+    color: #FFF;
+
+font-size: 24px;
+
+font-weight: 500;
+line-height: 40px;
+display: flex;
+}
+
+.icon{
+    display: flex;
+    gap: 20px;
+    margin: center;
+}
+.midnight{
+    color: white;
+    background-image: url(B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+}
+.option{
+    color: red;
+}
+.fast{
+    display: flex;
+}
+.last{
+    color: red;
+}
